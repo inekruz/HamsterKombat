@@ -25,15 +25,16 @@ except:
 
     FEATURES = {
         "buy_upgrades": True,
-        "buy_decision_method": "payback",
+        "buy_decision_method": "profit",
         "delay_between_attempts": 60 * 10,
     }
 
 
     ACCOUNTS = [
-        {"name": "account1", "token": "1234567890MySeCReTt0KeN1", "proxies": {"http": "http://user:pass@10.10.10.0:8080", "https": "https://user:pass@10.10.10.0:9090"}},
-        {"name": "account2", "token": "1234567890MySeCReTt0KeN2", "proxies": {"http": "http://user:pass@10.10.11.0:8080", "https": "https://user:pass@10.10.11.0:9090"}},
-        {"name": "account3", "token": "1234567890MySeCReTt0KeN3", "buy_upgrades": True, "buy_decision_method": "payback",},
+        {"name": "account1", "token": "1234YOURSECRETTOKEN"},
+        # {"name": "account2", "token": "1234YOURSECRETTOKEN", "proxies": {"http": "http://user:pass@10.10.11.0:8080", "https": "https://user:pass@10.10.11.0:9090"}},
+        # {"name": "account3", "token": "1234YOURSECRETTOKEN"},
+        # {"name": "account4", "token": "1234YOURSECRETTOKEN"},
     ]
 
 for account in ACCOUNTS:

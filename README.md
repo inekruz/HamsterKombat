@@ -32,7 +32,7 @@
 
 <b>Как получить токен:</b>
 1. Установить в свой браузер расширение <a href='[https://t.me/inekruz](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be)'>Violentmonkey</a>
-2. Для того, чтобы <a href='https://t.me/hamstEr_kombat_bot/start?startapp=kentId5513570584'>Hamster Kombat</a> открывался в браузере установите <a href='extension://jinjaccalgkegednnccohejagnlnfdag/confirm/index.html#VMkhb2ljx51k'>этот скрипт</a>
+2. Для того, чтобы <a href='https://t.me/hamstEr_kombat_bot/start?startapp=kentId5513570584'>Hamster Kombat</a> открывался в браузере установите <a href='https://raw.githubusercontent.com/mudachyo/Hamster-Kombat/main/hamster-kombat.user.js'>этот скрипт</a>
 4. Открыть Бота <a href='https://t.me/hamstEr_kombat_bot/start?startapp=kentId5513570584'>Hamster Kombat</a> и запустить игру
 5. Откройте просмотр Кода Элемента ( F12 ).
 6. Перейдите во вкладку Сеть ( Network )
